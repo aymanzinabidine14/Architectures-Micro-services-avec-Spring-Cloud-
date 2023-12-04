@@ -1,12 +1,17 @@
 
-**Démarer consul**<br>
+
+
+<details>
+ <summary>Démarer consul</summary><br>
+ 
 ![1](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/49b27c4d-f6e8-4e29-b9d4-c58dfdf2e9c3)<br>
 ![2](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/5ed302e6-3575-4ef7-bf76-cece8cd58c66)<br>
+</details>
 
 
 <details>
 <summary>Config service</summary><br>
-
+ 
 -Ce fichier contient le lien du référentiel qui regroupe tous les fichiers de configuration d'autres services :<br>
 ![4](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/a0a96ba0-8237-4fa8-a196-2e1beae46105)<br><br>
  -l'annotation @EnableConfigServer active le serveur de configuration, tandis que l'annotation @EnableDiscoveryClient active le client de découverte pour faciliter la gestion des microservices dans un environnement distribué.<br>
@@ -14,11 +19,10 @@
 -aprés le démmarage de config service:<br>
 ![6](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/175ecaef-21ea-41e5-ba2a-486c0b4ee64e)<br>
 </details>
-<br><br>
-
+<br>
 <details>
   <summary>Customer service</summary>
-  -L'entité Customer :<br><br>
+  -L'entité Customer :<br>
   
  ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/31ad9f1b-2f8e-4d2a-831c-fa54c1d6f176)<br>
 -La ligne spring.config.import=optional:configserver:http://localhost:8080 dans un fichier de configuration indique que Customer-service  doit importer sa configuration depuis un serveur de configuration 
@@ -33,7 +37,7 @@
  
 </details>
 
-<br><br>
+<br>
 
 <details>
   <summary>inventory service</summary>
@@ -46,7 +50,7 @@
 </details>
 
 
-<br><br>
+<br>
 
 <details>
   <summary>Gateway service</summary>
@@ -59,7 +63,7 @@
 
 </details>
 
-<br><br>
+<br>
 <details>
   <summary>Order service</summary>
   
@@ -73,7 +77,7 @@
 
 </details>
 
-<br><br>
+<br>
 
 <details>
   <summary>BILLING-SERVICE</summary>
