@@ -63,10 +63,13 @@
 <details>
   <summary>Order service</summary>
   
-  ![19](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/efb98dd4-1250-4ed4-9c68-149d7b2e3acc)
-  ![20](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/99acbf94-4d1e-413a-87f9-2774f7467a18)
+  ![19](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/efb98dd4-1250-4ed4-9c68-149d7b2e3acc)<br>
+ 
+  ![20](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/99acbf94-4d1e-413a-87f9-2774f7467a18)<br>
+   cette interface Feign définit les méthodes permettant d'interagir avec le service "costumer-service" via des requêtes HTTP GET:
   ![21](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/f83da9d5-f113-4c0d-939b-87ee92b32950)
-  ![22](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/f9201c19-1464-4fc5-8747-4224366ee7ee)
+  L'application initialise des données de commande de manière aléatoire en utilisant des clients Feign pour récupérer des informations depuis d'autres services (customer et inventory). <br>
+  ![22](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/f9201c19-1464-4fc5-8747-4224366ee7ee)<br>
 
 </details>
 
