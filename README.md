@@ -9,14 +9,23 @@
 ![5](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/421a2ab0-fafb-4c5b-935a-9eb07497027b)<br>
 ![6](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/175ecaef-21ea-41e5-ba2a-486c0b4ee64e)<br><br>
 
-**Customer service**
+<details>
+  <summary>**Customer service**</summary>
+  
+ ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/31ad9f1b-2f8e-4d2a-831c-fa54c1d6f176)<br>
 
-![11](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/31ad9f1b-2f8e-4d2a-831c-fa54c1d6f176)<br>
+ ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/e84bc4d4-64cf-4f6e-8634-ecd7b0fe8675)<br>
 
-![7](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/e84bc4d4-64cf-4f6e-8634-ecd7b0fe8675)<br>
+ ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/4cfbbdbd-baac-4599-a6f8-ae2a81e5ff20)<br>
 
-![8](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/4cfbbdbd-baac-4599-a6f8-ae2a81e5ff20)<br>
+ ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/50b11260-7fcf-4fa4-bf9c-ca76887686f2) <br>
 
-![9](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/50b11260-7fcf-4fa4-bf9c-ca76887686f2) <br>
+ ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/96803024-4121-4db3-9bb2-43206375bae9)
+
+</details>
+
+
+
+
 
 
