@@ -97,6 +97,18 @@
 </details>
 
 
+<details>
+  <summary>8-Client Angular:</summary>
+ 
+![37](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/27b0a027-90c4-4ab7-b1a1-bebb0366bdbb)<br>
+![38](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/084abbb8-c2b1-46e0-a067-9e028bac4807)<br>
+![39](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/168581b3-7d2d-495f-998f-152b029dec57)<br>
+![40](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/83d125cd-caf3-4109-94a4-7aca355ae2ee)<br>
+
+</details>
+
+
+
 
 
 
