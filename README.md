@@ -76,15 +76,21 @@
 <br><br>
 
 <details>
-  <summary>Order service</summary>
-  
+  <summary>BILLING-SERVICE</summary>
+
+  démarrage du vault :
   ![23](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/0b9fc063-47bf-4e20-99b1-b7f09e22d95c)
   ![24](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/cfeb7586-f0fc-4cc4-af29-e40431047918)
+  
+  -Dans le fichier de configuration, on définit le token Vault :
+  
   ![25](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/2f10e0cc-35f5-4a89-89d6-7867e9bb2cd8)
+
+  -Configuration des secrets avec Vault et Consul  :
+  
   ![26](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/b7f4e8d4-c0bc-4101-bdd0-0dfbfc5253b6)
   ![27](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/b78c501f-da1a-41d7-8b16-3a0dc789060d)
   ![28](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/a9a9384f-92c8-4de3-9e58-69672391705e)
-  ![29](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/5e2c3400-176a-4f21-8784-bfa1fb5f621a)
   ![30](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/96161fbd-0357-4ae5-9b96-c5badf2db94d)
   ![31](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/e85357b7-b456-4c6a-a424-fc48510a6dcc)
   ![32](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/73cdc415-b8f9-4d69-aeaa-5f70c89296ad)
