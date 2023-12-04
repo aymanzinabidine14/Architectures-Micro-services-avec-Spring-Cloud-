@@ -2,15 +2,14 @@
 
 
 <details>
- <summary>Démarer consul</summary><br>
+ <summary>1-Consul</summary><br>
  
 ![1](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/49b27c4d-f6e8-4e29-b9d4-c58dfdf2e9c3)<br>
 ![2](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/5ed302e6-3575-4ef7-bf76-cece8cd58c66)<br>
 </details>
 
-
 <details>
-<summary>Config service</summary><br>
+<summary>2-Config service</summary><br>
  
 -Ce fichier contient le lien du référentiel qui regroupe tous les fichiers de configuration d'autres services :<br>
 ![4](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/a0a96ba0-8237-4fa8-a196-2e1beae46105)<br><br>
@@ -19,9 +18,9 @@
 -aprés le démmarage de config service:<br>
 ![6](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/175ecaef-21ea-41e5-ba2a-486c0b4ee64e)<br>
 </details>
-<br>
+
 <details>
-  <summary>Customer service</summary>
+  <summary>3-Customer service</summary>
   -L'entité Customer :<br>
   
  ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/31ad9f1b-2f8e-4d2a-831c-fa54c1d6f176)<br>
@@ -37,10 +36,8 @@
  
 </details>
 
-<br>
-
 <details>
-  <summary>inventory service</summary>
+  <summary>4-inventory service</summary>
   
 ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/a0cdcbf1-091b-47b0-b076-e076ca4eda64)<br><br>
 ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/72dcc3a0-a76c-431f-84cd-98a7bd0d7bf8)<br><br>
@@ -49,11 +46,8 @@
 ![Description de l'image](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/8f3462f5-eed3-4474-8bab-f25f07d9b923)<br><br>
 </details>
 
-
-<br>
-
 <details>
-  <summary>Gateway service</summary>
+  <summary>5-Gateway service</summary>
 
   ![16](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/4487be31-07e4-4ce4-87b6-fd5ae6fd13f1)<br><br>
    Gateway service configure une passerelle (gateway) utilisant Spring Cloud Gateway et utilise la découverte de service pour configurer dynamiquement les routes de la passerelle à partir d'un service de découverte. Cela offre une flexibilité et une évolutivité accrues dans un environnement de microservices où de nouveaux services peuvent être ajoutés sans avoir à mettre à jour manuellement la configuration de la passerelle.
@@ -63,9 +57,8 @@
 
 </details>
 
-<br>
 <details>
-  <summary>Order service</summary>
+  <summary>6-Order service</summary>
   
   ![19](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/efb98dd4-1250-4ed4-9c68-149d7b2e3acc)<br>
  
@@ -77,10 +70,8 @@
 
 </details>
 
-<br>
-
 <details>
-  <summary>BILLING-SERVICE</summary>
+  <summary>7-Billing service</summary>
 
   démarrage du vault :
   ![23](https://github.com/aymanzinabidine14/Architectures-Micro-services-avec-Spring-Cloud-/assets/128410611/0b9fc063-47bf-4e20-99b1-b7f09e22d95c)
